@@ -327,7 +327,7 @@ func updateVersionFile(filePaths *UpdateFilePaths) error {
 	}
 	versionNumberStr := strconv.Itoa(versionNumber)
 
-	newVersionStr := fmt.Sprintf("\n%s.%s.%d", versionStr[0], versionNumberStr, 0)
+	newVersionStr := fmt.Sprintf("%s.%s.%d", versionStr[0], versionNumberStr, 0)
 	log.Printf("Updating version file %s to new version: %s\n", filePaths.Version, newVersionStr)
 	if err := os.WriteFile(filePaths.Version, []byte(newVersionStr), 0644); err != nil {
 		return fmt.Errorf("failed to write new version to %s: %w", filePaths.Version, err)

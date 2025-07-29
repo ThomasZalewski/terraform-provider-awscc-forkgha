@@ -1,3 +1,21 @@
+## 1.51.0 (July 29, 2025)
+
+FEATURES:
+
+aws_billing_billing_view - New Resource
+aws_billing_billing_view - New Singular Data Source
+aws_billing_billing_views - New Plural Data Source
+aws_ec2_traffic_mirror_session - New Resource
+aws_ec2_traffic_mirror_session - New Singular Data Source
+aws_ec2_traffic_mirror_sessions - New Plural Data Source
+aws_lightsail_domain - New Resource
+aws_lightsail_domain - New Singular Data Source
+aws_lightsail_domains - New Plural Data Source
+aws_s3tables_table_policy - New Resource
+aws_s3tables_table_policy - New Singular Data Source
+aws_wisdom_quick_response - New Resource
+aws_wisdom_quick_response - New Singular Data Source
+
 ## 1.50.0 (July 24, 2025)
 
 FEATURES:

@@ -1,3 +1,14 @@
+## 1.51.0 (July 30, 2025)
+
+FEATURES:
+
+* **New Resource** `aws_batch_service_environment`
+* **New Resource** `aws_billing_billing_view`
+* **New Resource** `aws_ec2_traffic_mirror_session`
+* **New Resource** `aws_lightsail_domain`
+* **New Resource** `aws_s3tables_table_policy`
+* **New Resource** `aws_wisdom_quick_response`
+
 ## 1.50.0 (July 24, 2025)
 
 FEATURES:

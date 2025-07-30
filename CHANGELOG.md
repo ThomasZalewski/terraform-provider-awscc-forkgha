@@ -1,3 +1,24 @@
+## 1.51.0 (July 30, 2025)
+
+FEATURES:
+
+* **New Data Source:** `aws_batch_service_environment`
+* **New Data Source:** `aws_batch_service_environments`
+* **New Data Source:** `aws_billing_billing_view`
+* **New Data Source:** `aws_billing_billing_views`
+* **New Data Source:** `aws_ec2_traffic_mirror_session`
+* **New Data Source:** `aws_ec2_traffic_mirror_sessions`
+* **New Data Source:** `aws_lightsail_domain`
+* **New Data Source:** `aws_lightsail_domains`
+* **New Data Source:** `aws_s3tables_table_policy`
+* **New Data Source:** `aws_wisdom_quick_response`
+* **New Resource** `aws_batch_service_environment`
+* **New Resource** `aws_billing_billing_view`
+* **New Resource** `aws_ec2_traffic_mirror_session`
+* **New Resource** `aws_lightsail_domain`
+* **New Resource** `aws_s3tables_table_policy`
+* **New Resource** `aws_wisdom_quick_response`
+
 ## 1.50.0 (July 24, 2025)
 
 FEATURES:
